@@ -1,3 +1,3 @@
 # Spring Boot Postgress Example
 
-You can learn more about my courses [here](http://courses.springframework.guru/courses/) on my site.
+This sample will run a web app using JPA to add/edit/delete records from a Postgres DB table called Product.
