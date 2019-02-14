@@ -110,7 +110,7 @@ class Solution {
               * respectively. Initialize l as 0 and r as n-1.
                * 3) sum = a[l] + a[r]
                * 4) If sum is -ve, then l++
-               * 5) If sum is +ve, then r–
+               * 5) If sum is +ve, then r?
                * 6) Keep track of  abs min sum.
                * 7) Repeat steps 3, 4, 5 and 6 while l < r Implementation
               *
